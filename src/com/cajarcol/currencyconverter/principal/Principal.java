@@ -1,10 +1,5 @@
 package com.cajarcol.currencyconverter.principal;
 
-<<<<<<< HEAD
-public class Principal {
-    public static void main(String[] args) {
-        System.out.println("Hola mundo");
-=======
 import com.cajarcol.currencyconverter.modelo.ConsultaConversion;
 import com.cajarcol.currencyconverter.modelo.ConversionMoneda;
 
